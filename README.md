@@ -31,7 +31,7 @@ The recommender system employs a machine learning model that considers various f
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/MovieRecommenderSystem.git
+   git clone https://github.com/gagarinrout/movie-recommender-system.git
 
 2. Install the required dependencies.
    ```bash
